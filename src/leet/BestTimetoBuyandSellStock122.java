@@ -3,10 +3,12 @@ package leet;
 public class BestTimetoBuyandSellStock122 {
 
 	public static void main(String[] args) {
+		
 		int[] test= {9,3,4,5};
+		
 		BestTimetoBuyandSellStock122 eric= new BestTimetoBuyandSellStock122();
 		System.out.println(eric.sum(test));
-		// TODO Auto-generated method stub
+		
 
 	}
 	public int sum(int[] arr) {
